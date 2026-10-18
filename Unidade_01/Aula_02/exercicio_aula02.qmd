@@ -1,3 +1,11 @@
 ---
 title: "Aula 02"
+subtitle: "Ciência de Dados — IMD/UFRN"
+author: "Ana Paula Evangelista Melo Freitas · Matrícula 20250041027"
+format: html
+jupyter: python3
 ---
+
+```{python}
+
+```
