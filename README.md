@@ -1,12 +1,13 @@
-# 📊 Ciência de Dados — Repositório de Atividades
+# Ciência de Dados — Repositório de Atividades
 
-Repositório individual para envio e avaliação contínua das aulas e tarefas da disciplina.
+Este repositório reúne as atividades práticas desenvolvidas ao longo do semestre e serve como instrumento de avaliação contínua da disciplina de **Ciência de Dados**, ministrada pelo professor **André Luís Fonseca Faustino**.
 
 | | |
 |---|---|
 | **Nome completo** | Ana Paula Evangelista Melo Freitas |
 | **Matrícula** | 20250041027 |
 | **Disciplina** | Ciência de Dados |
+| **Professor** | André Luís Fonseca Faustino |
 | **Curso** | Bacharelado em Tecnologia da Informação — IMD/UFRN |
 | **Semestre** | 2026.2 |
 
@@ -29,7 +30,7 @@ Repositório individual para envio e avaliação contínua das aulas e tarefas d
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 ```bash
 python3 -m venv .venv
