@@ -4,15 +4,15 @@ Repositório individual para envio e avaliação contínua das aulas e tarefas d
 
 | | |
 |---|---|
-| **Nome completo** | Ana Paula [SOBRENOME COMPLETO] |
-| **Matrícula** | XXXXXXXXX |
+| **Nome completo** | Ana Paula Evangelista Melo Freitas |
+| **Matrícula** | 20250041027 |
 | **Disciplina** | Ciência de Dados |
 | **Curso** | Bacharelado em Tecnologia da Informação — IMD/UFRN |
 | **Semestre** | 2026.2 |
 
 ---
 
-## 🗂️ Sumário
+## Sumário
 
 ### Unidade 1
 - [Aula 01 — Exercício](Unidade_01/Aula_01/exercicio_aula01.ipynb)
