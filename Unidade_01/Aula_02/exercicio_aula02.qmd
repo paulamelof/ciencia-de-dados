@@ -1,0 +1,22 @@
+---
+title: "Aula 02 — Exercício"
+author: "Ana Paula — Matrícula XXXXXXXXX"
+format: html
+jupyter: python3
+---
+
+**Objetivo:** _descreva em 1–2 frases o que a aula pede._
+
+## Exercício 1
+
+_Enunciado do exercício._
+
+```{python}
+# código do exercício 1
+```
+
+### 📌 Análise do Exercício 1
+
+- **O que a saída mostra:** ...
+- **Conclusão:** ...
+- **Impacto na questão:** ...
